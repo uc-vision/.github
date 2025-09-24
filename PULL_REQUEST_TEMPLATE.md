@@ -10,7 +10,6 @@ Please check to indicate:
 - [ ] Run lint - (use # noqa on legacy code which can't be improved for now)
 - [ ] Run typechecker (for python projects) - fix up any external code use with `typing.cast`  and/or `# type : ignore` where applicable
 ##
-- [ ] Code adheres to style guidelines
 - [ ] Complex parts of the code are commented
 - [ ] Code is refactored to a high standard (DRY, SRP, KISS etc.)
 ##  
